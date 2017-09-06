@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+  main {
+    flex: 1 0 auto;
+  }
+  .x:hover{
+    background: rgba(200,200,200,0.8);
+  }
